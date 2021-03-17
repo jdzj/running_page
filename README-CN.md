@@ -1,4 +1,4 @@
-![running_page](https://socialify.git.ci/yihong0618/running_page/image?description=1&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fshaonianche%2Fgallery%2Fmaster%2Frunning_page%2Frunning_page_logo_150*150.jpg&owner=1&pulls=1&stargazers=1&theme=Light)
+
 
 # [打造个人跑步主页](https://yihong.run/running) 
 简体中文 | [English](README-EN.md)
@@ -10,31 +10,6 @@
 
 </details>
 
-## [大家的跑步主页展示](https://github.com/yihong0618/running_page/issues/12)
-
-| Runner | page | App |
-| ------- | ------- | ------- |
-| [shaonianche](https://github.com/shaonianche) | https://run.duangfei.org | Nike |
-| [yihong0618](https://github.com/yihong0618) | https://yihong.run/running | Nike |
-| [superleeyom](https://github.com/superleeyom) | https://running.leeyom.top | Nike |
-| [geekplux](https://github.com/geekplux) | https://activities.geekplux.com | Nike |
-| [guanlan](https://github.com/guanlan) | https://grun.vercel.app | Strava |
-| [tuzimoe](https://github.com/tuzimoe) | https://run.tuzi.moe | Nike |
-| [ben_29](https://github.com/ben-29) | https://running.ben29.xyz | Strava |
-| [kcllf](https://github.com/kcllf) | https://running-tau.vercel.app | Garmin-cn |
-| [mq](https://github.com/MQ-0707) | https://running-iota.vercel.app | Keep |
-| [zhaohongxuan](https://github.com/zhaohongxuan) | https://running-page-psi.vercel.app | Keep |
-| [yvetterowe](https://github.com/yvetterowe) | https://run.haoluo.io | Strava |
-| [love-exercise](https://github.com/KaiOrange) | https://run.kai666666.top | Keep |
-| [zstone12](https://github.com/zstone12) | https://running-page.zstone12.vercel.app | Keep |
-| [Lax](https://github.com/Lax) | https://lax.github.io/running | Keep |
-| [lusuzi](https://github.com/lusuzi) | https://running.lusuzi.vercel.app | Nike |
-| [wh1994](https://github.com/wh1994) | https://run4life.fun | Garmin |
-| [liuyihui](https://github.com/YiHui-Liu) | https://run.foolishfox.cn | Keep |
-| [FrankSun](https://github.com/hi-franksun) | https://hi-franksun.github.io/running_page | Nike |
-| [AhianZhang](https://github.com/AhianZhang) | https://running.ahianzhang.com | Keep |
-| [L1cardo](https://github.com/L1cardo) | https://run.licardo.cn | Nike |
-| [luckylele666](https://github.com/luckylele666) | https://0000928.xyz | Strava |
 
 ## 它是怎么工作的
 
