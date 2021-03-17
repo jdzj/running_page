@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://yihong.run/sitemap.xml
-Host: https://yihong.run
+Sitemap: https://weiluge.jdzjw.com/sitemap.xml
+Host: https://weiluge.jdzjw.com
