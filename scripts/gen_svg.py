@@ -165,7 +165,7 @@ def main():
         dest="min_distance",
         metavar="DISTANCE",
         type=float,
-        default=1.0,
+        default=3.0,
         help="min distance by km for track filter",
     )
     args_parser.add_argument(
