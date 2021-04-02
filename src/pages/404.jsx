@@ -9,9 +9,9 @@ const NotFoundPage = () => (
       If you wanna more message, you could visit{' '}
       <a
         className="moon-gray b"
-        href="https://github.com/yihong0618/running_page"
+        href="http://weiluge.com/"
       >
-        https://github.com/yihong0618/running_page
+        微录阁
       </a>
     </p>
   </Layout>
