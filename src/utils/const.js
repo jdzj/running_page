@@ -49,7 +49,7 @@ export {
 export const AVATAR =
   'https://avatars.githubusercontent.com/u/2352309?s=96&v=4'; // Temp avatar
 export const NAVS = [
-  { text: 'Blog', link: 'https://weiluge.jdzjw.com/' },
+  { text: 'log', link: 'https://log.org.cn/' },
   { text: 'Sites', link: 'https://www.mysites.cn/' },
   { text: 'About', link: 'https://github.com/jdzj/run' },
 ];
